@@ -1,0 +1,5 @@
+package com.trekwise.app.trekwise
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
